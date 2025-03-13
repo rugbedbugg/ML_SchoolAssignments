@@ -59,18 +59,5 @@ Given height (in feet) and weight (in grams) data for **40 people**, apply featu
 ✅ **Task 2:** Apply **AdaBoost Algorithm** to classify **flower species**.  
 ✅ **Task 3:** Compare multiple **classification algorithms** and evaluate performance using **metrics like Accuracy, Precision, Recall, F1-score**.  
 
----
-
-## 🔥 **Projects Overview**  
-
-### 🛡️ **CyberSleuth - Cyber Defense & Intelligence Platform**  
-A **mobile app** for **cybersecurity and digital forensics**, featuring:  
-- **🔍 AR-based vulnerability scanning**.  
-- **🤝 Crowd-sourced threat intelligence**.  
-- **🕵️ Dark web breach monitoring**.  
-- **📊 AI-driven anomaly detection**.  
-- **🔐 End-to-end encryption & multi-factor authentication**.  
-
----
 
  
