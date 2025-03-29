@@ -1,7 +1,7 @@
 # 🚀 **Machine Learning Assessments & Projects**  
 
 ## 📝 **Description**  
-This repository contains solutions, implementations, and documentation related to various **machine learning assessments**, **cybersecurity applications**, and **AI-driven projects**. The assessments cover **data manipulation, clustering, dimensionality reduction, classification, and feature scaling**. Additionally, it includes innovative projects in **predictive AI, cybersecurity, and encryption techniques**.  
+This repository contains solutions, implementations, and documentation related to various **machine learning assessments**. The assessments cover **data manipulation, clustering, dimensionality reduction, classification, and feature scaling**.   
 
 ---
 
@@ -59,5 +59,16 @@ Given height (in feet) and weight (in grams) data for **40 people**, apply featu
 ✅ **Task 2:** Apply **AdaBoost Algorithm** to classify **flower species**.  
 ✅ **Task 3:** Compare multiple **classification algorithms** and evaluate performance using **metrics like Accuracy, Precision, Recall, F1-score**.  
 
+---
 
- 
+### 🤖 Assessment 5 - KNN & K-Modes Clustering
+✅ Task 1: Implement K-Nearest Neighbors (KNN) on the Iris Dataset:
+    - 📂 Load the dataset.
+    - 📏 Scale features using StandardScaler.
+    - 🏋️‍♂️ Train a KNN model (k=5) on the training set.
+    - 📊 Evaluate using Accuracy, Precision, Recall, and F1-score.
+✅ Task 2: Implement K-Modes Clustering on a Customer Segmentation Dataset:
+    - 🏷️ Encode categorical variables (Gender, Age Group, Shopping Habit).
+    - 🔍 Use the Elbow Method to determine the optimal number of clusters.
+    - 🎯 Train a K-Modes model with the optimal k.
+    - 📊 Evaluate clustering using Silhouette Score.
