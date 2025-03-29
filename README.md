@@ -10,16 +10,16 @@ This repository contains solutions, implementations, and documentation related t
 ### 🧮 **Assessment 1 - NumPy, Pandas & Matplotlib**  
 ✅ **Task 1:** Create a **2D NumPy array (3×4)** filled with random integers (1-100), then:  
    - Extract the **second row** and **last column**.  
-   - Replace all **even numbers** in the array with `-1`.  
+   - Replace all **even numbers** in the array with `-1`.    
 ✅ **Task 2:** Create a **DataFrame** with columns `Name`, `Age`, `City`, and `Salary` for 5 employees, then:  
    - Add a **Bonus** column (10% of Salary).  
    - Sort the DataFrame by **Salary** in descending order.  
-✅ **Task 3:** Plot a **line graph** for the equation:  
+✅ **Task 3:** Plot a **line graph** for the equation:    
    \[
    y = 2x^2 + 3x + 5
    \]
    for `x` ranging from `-10` to `10`, with labeled axes and a title.  
-✅ **Task 4:** Create a **figure with 4 subplots**:  
+✅ **Task 4:** Create a **figure with 4 subplots**:    
    - 📈 **Line graph**  
    - 🎯 **Scatter plot**  
    - 📊 **Histogram**  
